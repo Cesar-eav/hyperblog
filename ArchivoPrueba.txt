@@ -1,9 +1,3 @@
 Version 1
 
 V2. Es una casa
-
-V3. La casa es roja
-
-V4. La pinté roja pero no me gustó.
-
-V5. La cambié a verde y ahora si me gusta.
